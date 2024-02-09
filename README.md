@@ -1,7 +1,7 @@
 # Time Complexity Analysis of Sorting Algorithms
 
 ## Overview
-This repository contains code for analyzing the time complexity of sorting algorithms, specifically focusing on QuickSort and MergeSort. The analysis involves running experiments under various scenarios and list sizes to compare the runtime performance of these algorithms.
+This repository contains code for analyzing the time complexity of sorting algorithms, specifically focusing on QuickSort, MergeSort, HeapSort, InsertionSort, and HybridSort. The analysis involves running experiments under various scenarios and list sizes to compare the runtime performance of these algorithms.
 
 ## Algorithms Included
 - **QuickSort**: An efficient divide-and-conquer algorithm that sorts an array by partitioning it into smaller subarrays.
